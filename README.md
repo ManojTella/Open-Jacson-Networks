@@ -70,7 +70,3 @@ print("----------------------------------------------------------------------")
 ![output](https://github.com/RuchithaReddy28/Open-Jacson-Networks/blob/main/j2.png?raw=true)
 ## Result:
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
-## Output
-![image](https://github.com/ManojTella/Open-Jacson-Networks/assets/94883876/72e0b911-50d8-473c-928a-1013ecd9501a)
-
-## Result
